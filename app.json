@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "name": "Mobile Cards",
+    "description": "Now you can test yourself using flashcards without wasting paper!",
+    "slug": "mobilecards",
+    "version": "1.0",
+    "icon": "https://maxcdn.icons8.com/Color/PNG/512/Sports/triathlon-512.png",
+    "notification": {
+      "icon": "http://www.cordovacircus.com/resources/3d-touch-quick-action-icon-files/SBSApplicationShortcutIcon_ComposeNew@3x_2x.png"
+    },
+    "ios": {
+     "bundleIdentifier": "org.mobilecards.exp",
+    },
+  },
+}
